@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo Template
+title: 龚敏的法律小讲堂
 subtitle: ''
-description: ''
+description: 'Vlog'
 keywords:
-author: JiJi
-language: en
+author: 龚敏
+language: zh
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://jiji.pro/hexo-template
+url: https://IsJohnwaves.github.io
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +104,3 @@ theme: landscape
 deploy:
   type: ''
 
-root: /hexo-template
